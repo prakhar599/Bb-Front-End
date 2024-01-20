@@ -58,3 +58,15 @@ body {
     border-radius: 5px;
   }
   
+/* Add this style to your CSS file */
+.footer-container {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f8f9fa; /* Adjust the background color as needed */
+    padding: 20px 0; /* Adjust the padding as needed */
+    text-align: center;
+    color: #007bff;
+  }
+    
